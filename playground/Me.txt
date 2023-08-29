@@ -1,5 +1,0 @@
-{{#user}}
-Name: Radhakrishnan
-Skills: Java, Selenium, Agile, Manual Testing
-Email: radhakrishnan.j@outlook.in
-{{/user}}
